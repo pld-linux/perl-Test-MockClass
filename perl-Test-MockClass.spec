@@ -6,7 +6,7 @@
 %define	pdir	Test
 %define	pnam	MockClass
 Summary:	Test::MockClass - A module to provide mock classes and mock objects for testing
-Summary(pl.UTF-8):   Test::MockClass - moduł udostępniający klasy pozorne i obiekty pozorne do testowania
+Summary(pl.UTF-8):	Test::MockClass - moduł udostępniający klasy pozorne i obiekty pozorne do testowania
 Name:		perl-Test-MockClass
 Version:	1.04
 Release:	0.1
