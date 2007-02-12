@@ -6,7 +6,7 @@
 %define	pdir	Test
 %define	pnam	MockClass
 Summary:	Test::MockClass - A module to provide mock classes and mock objects for testing
-Summary(pl):	Test::MockClass - modu³ udostêpniaj±cy klasy pozorne i obiekty pozorne do testowania
+Summary(pl.UTF-8):   Test::MockClass - moduÅ‚ udostÄ™pniajÄ…cy klasy pozorne i obiekty pozorne do testowania
 Name:		perl-Test-MockClass
 Version:	1.04
 Release:	0.1
@@ -34,15 +34,15 @@ features. This module is hopefully going to be the Date::Manip of
 mock class/object creation, so email me with lots of ideas, everything
 but the kitchen sink will go in!
 
-%description -l pl
-Ten modu³ dostarcza prosty interfejs do tworzenia klas pozornych oraz
-obiektów pozornych z metodami pozornymi do celów pozornych, to znaczy
-do celów testowych. Dostarcza tak¿e prosty mechanizm do ¶ledzenia
-interakcji upozorowanych obiektów. Oryginalnie klasa ta zosta³a
-napisana do pomocy przy testowaniu metod tworz±cych obiekty, ale od
-tamtego czasu przyby³o jej wiêcej mo¿liwo¶ci. Ten modu³ ma byæ
-Date::Manip dla tworzenia klas/obiektów pozornych, wiêc autor zachêca
-do wysy³ania wielu pomys³ów, co mog³oby siê w nim znale¼æ.
+%description -l pl.UTF-8
+Ten moduÅ‚ dostarcza prosty interfejs do tworzenia klas pozornych oraz
+obiektÃ³w pozornych z metodami pozornymi do celÃ³w pozornych, to znaczy
+do celÃ³w testowych. Dostarcza takÅ¼e prosty mechanizm do Å›ledzenia
+interakcji upozorowanych obiektÃ³w. Oryginalnie klasa ta zostaÅ‚a
+napisana do pomocy przy testowaniu metod tworzÄ…cych obiekty, ale od
+tamtego czasu przybyÅ‚o jej wiÄ™cej moÅ¼liwoÅ›ci. Ten moduÅ‚ ma byÄ‡
+Date::Manip dla tworzenia klas/obiektÃ³w pozornych, wiÄ™c autor zachÄ™ca
+do wysyÅ‚ania wielu pomysÅ‚Ã³w, co mogÅ‚oby siÄ™ w nim znaleÅºÄ‡.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
