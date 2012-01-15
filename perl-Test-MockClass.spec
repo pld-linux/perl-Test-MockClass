@@ -8,12 +8,12 @@
 Summary:	Test::MockClass - A module to provide mock classes and mock objects for testing
 Summary(pl.UTF-8):	Test::MockClass - moduł udostępniający klasy pozorne i obiekty pozorne do testowania
 Name:		perl-Test-MockClass
-Version:	1.04
+Version:	1.05
 Release:	0.1
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	821b94ea86e0c704723fe9bbdf180f57
+# Source0-md5:	6b458a9458e535e92feb9df3df834ce7
 URL:		http://search.cpan.org/dist/Test-MockClass/
 BuildRequires:	perl-ExtUtils-AutoInstall >= 0.45
 BuildRequires:	perl-Test-SimpleUnit >= 1.21
